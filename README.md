@@ -1,6 +1,6 @@
 # PetTrakBOL
-El siguiente codigo esat realizado en java la ejecucion de este es sencilla
-1.- Se corre el programa
+# El siguiente codigo esat realizado en java la ejecucion de este es sencilla
+# 1.- Se corre el programa
 2.- En le menu se elige la opcion de resgistro
 3.- A continuacion se llena los siguientes datos
     Nombre: 
